@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Chicken Breast",
+    "category": "Meat",
+    "portion": 100,
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "vitamins": {
+      "B6": "0.6mg",
+      "B12": "0.3µg"
+    },
+    "minerals": {
+      "Iron": "0.9mg",
+      "Calcium": "15mg"
+    }
+  },
+  {
+    "name": "Apple",
+    "category": "Fruit",
+    "portion": 100,
+    "calories": 52,
+    "protein": 0.3,
+    "carbs": 14,
+    "fat": 0.2,
+    "vitamins": {
+      "C": "4.6mg"
+    },
+    "minerals": {
+      "Potassium": "107mg"
+    }
+  }
+]
